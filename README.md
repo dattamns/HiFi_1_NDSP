@@ -1,2 +1,2 @@
 # HiFi_1 NDSP Branch
-# Root or Main Repo is HiFi_NDSP
+Root or Main Repo is HiFi_NDSP
