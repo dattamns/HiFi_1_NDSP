@@ -1,2 +1,2 @@
-# fossXtensa
-Main repository - HiFi NDSP 
+# Root / Main repository for HiFi NDSPs 
+
